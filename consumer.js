@@ -1,9 +1,9 @@
 import amqp from 'amqplib';
 import * as TPLink from 'tplink-bulbs';
 
-const email = 'mathis.neunzig@gmail.com'
-const password = 'KittyBlume1'
-const deviceIdToFind = '802374C91BFCFD4B44BADBFE7A34AD8C2323F45F';
+const email = 'email'
+const password = 'password'
+const deviceIdToFind = 'devideid';
 
 console.log(TPLink)
 
